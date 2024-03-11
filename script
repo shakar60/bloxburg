@@ -1,2 +1,3 @@
 G.time = 4 -- how long to auto farm before getting kicked (in hours)
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ZackDaQuack/blox/main/minimum_wage.lua', true))()
